@@ -16,12 +16,14 @@
 1. Configure Apache Tomcat
 2. Connect your DB to the project
 3. In the db.properties file change properties
-   `#MySQL properties
+   ``` java
+   #MySQL properties
    db.driver = YOUR DRIVER
    db.url = YOUR DB url
    db.user = YOUR NAME
-   db.password = YOUR PASSWORD`
-4. Start the application
-5. If you want to login as Admin - use e-mail: admin@mail.com, password: admin
-6. If you want to login as User - use e-mail: bob@mail.com, passwors: bob12345
+   db.password = YOUR PASSWORD
+   ```
+5. Start the application
+6. If you want to login as Admin - use e-mail: admin@mail.com, password: admin
+7. If you want to login as User - use e-mail: bob@mail.com, passwors: bob12345
   ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
